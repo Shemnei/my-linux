@@ -1,7 +1,9 @@
 # My Linux
 
-__NOTE__ This is my personal list of tools which i recommend and/or use.
-Pull request suggesting new tools are welcome but will not automatically merge.
+__NOTE__
+
+This is my personal list of tools which i recommend and/or use.
+Pull request suggesting new tools are welcome but will not automatically be merged.
 
 With that being said, here is the list :)
 
@@ -10,7 +12,7 @@ With that being said, here is the list :)
 ### General
 
 - [alacritty](https://github.com/alacritty/alacritty): Awesome terminal emulator written in Rust
-- [navi](https://github.com/denisidoro/navi): Command bookmarker; Never ever forget useful commands (cheat repo: <https://github.com/Shemnei/cheats>)
+- [navi](https://github.com/denisidoro/navi): Command bookmarker; Never ever forget useful commands (my [cheat repo](https://github.com/Shemnei/cheats))
 - [zoxide](https://github.com/ajeetdsouza/zoxide): A smarter `cd`, similar to `autojump`
 
 ### Administration
