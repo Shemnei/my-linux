@@ -15,6 +15,7 @@ With that being said, here is the list :)
 - [navi](https://github.com/denisidoro/navi): Command bookmarker; Never ever forget useful commands (my [cheat repo](https://github.com/Shemnei/cheats))
 - [zoxide](https://github.com/ajeetdsouza/zoxide): A smarter `cd`, similar to `autojump`
 - [miniserve](https://github.com/svenstaro/miniserve): Local file sharing server
+- [mise](https://github.com/jdx/mise): Development environment management tool
 
 ### Administration
 
@@ -23,6 +24,7 @@ With that being said, here is the list :)
 - [dust](https://github.com/bootandy/dust): Disk usage analyser. Basically an advanced `du`.
 - [punktf](https://github.com/Shemnei/punktf): In-house developed dotfile/configuration manager :)
 - [Bottles](https://github.com/bottlesdevs/Bottles): Wine manager - Run Windows software and games on Linux
+- [lnav](https://github.com/tstack/lnav): Log viewer
 
 ### Development
 
@@ -33,6 +35,10 @@ With that being said, here is the list :)
 - [commitizen](https://github.com/commitizen-tools/commitizen): Conventional commits interactive helper
 - [cocogitto](https://github.com/cocogitto/cocogitto): Conventional commits powered release and changelog tool
 
+#### Docker
+
+- [dive](https://github.com/wagoodman/dive): Docker image analyzer
+
 #### Rust
 
 - [nextest](https://github.com/nextest-rs/nextest): Prettier testing (also has some more features)
@@ -42,7 +48,7 @@ With that being said, here is the list :)
 - [cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit): Security audit tool 
 - [cargo-deny](https://github.com/embarkstudios/cargo-deny): Dependency audit tool
 - [cargo-edit](https://github.com/killercup/cargo-edit): Mainly for `cargo set-version` for automated version bumps
-- [cargo-updater](https://github.com/pombadev/cargo-updater): Keep those installed binaries up-to-date
+- [cargo-update](https://github.com/nabijaczleweli/cargo-update): Keep those installed binaries up-to-date
 
 ### Finance
 
