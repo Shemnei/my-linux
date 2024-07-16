@@ -25,6 +25,8 @@ With that being said, here is the list :)
 - [punktf](https://github.com/Shemnei/punktf): In-house developed dotfile/configuration manager :)
 - [Bottles](https://github.com/bottlesdevs/Bottles): Wine manager - Run Windows software and games on Linux
 - [lnav](https://github.com/tstack/lnav): Log viewer
+- [impala](https://github.com/pythops/impala): TUI for managing wifi
+- [bluetuith](https://github.com/darkhz/bluetuith): TUI for managing bluetooth
 
 ### Development
 
@@ -45,7 +47,7 @@ With that being said, here is the list :)
 - [cargo-hack](https://github.com/taiki-e/cargo-hack): Useful for CI - Allows to run cargo for feature sets
 - [cargo-outdated](https://github.com/kbknapp/cargo-outdated): Display out-of-date dependencies
 - [cargo-udeps](https://github.com/est31/cargo-udeps): Locate unused dependencies
-- [cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit): Security audit tool 
+- [cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit): Security audit tool
 - [cargo-deny](https://github.com/embarkstudios/cargo-deny): Dependency audit tool
 - [cargo-edit](https://github.com/killercup/cargo-edit): Mainly for `cargo set-version` for automated version bumps
 - [cargo-update](https://github.com/nabijaczleweli/cargo-update): Keep those installed binaries up-to-date
@@ -53,7 +55,7 @@ With that being said, here is the list :)
 ### Finance
 
 - [beancount](https://github.com/beancount/beancount): Text based double entry accounting
-    - [fava](https://github.com/beancount/fava): Web UI for `beancount`
+  - [fava](https://github.com/beancount/fava): Web UI for `beancount`
 - [PortfolioPerformance](https://github.com/portfolio-performance/portfolio): Stock market investment tracker and performance evaluator
 
 ### Entertainment
@@ -64,4 +66,4 @@ With that being said, here is the list :)
 ### Other
 
 - [ollama](https://github.com/ollama/ollama): Download and run LLMs locally
-    - [open-webui](https://github.com/open-webui/open-webui): Web UI for running local (ollama) LLMs
+  - [open-webui](https://github.com/open-webui/open-webui): Web UI for running local (ollama) LLMs
