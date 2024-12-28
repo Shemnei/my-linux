@@ -27,6 +27,8 @@ With that being said, here is the list :)
 - [lnav](https://github.com/tstack/lnav): Log viewer
 - [impala](https://github.com/pythops/impala): TUI for managing wifi
 - [bluetuith](https://github.com/darkhz/bluetuith): TUI for managing bluetooth
+- [lynis](https://github.com/CISOfy/lynis): Security auditing tool for nix systems.
+- [pik](https://github.com/jacek-kurlit/pik): Interactive process killer
 
 ### Development
 
