@@ -28,7 +28,7 @@ With that being said, here is the list :)
 - [impala](https://github.com/pythops/impala): TUI for managing wifi
 - [bluetuith](https://github.com/darkhz/bluetuith): TUI for managing bluetooth
 - [lynis](https://github.com/CISOfy/lynis): Security auditing tool for nix systems.
-- [pik](https://github.com/jacek-kurlit/pik): Interactive process killer
+- [pik](https://github.com/jacek-kurlit/pik): Interactive process killer (also shows ports used by processes)
 
 ### Development
 
@@ -38,6 +38,7 @@ With that being said, here is the list :)
 - [typos](https://github.com/crate-ci/typos): Code spell checker
 - [commitizen](https://github.com/commitizen-tools/commitizen): Conventional commits interactive helper
 - [cocogitto](https://github.com/cocogitto/cocogitto): Conventional commits powered release and changelog tool
+- [git-cliff](https://github.com/orhun/git-cliff): Changelog generator using Conventional Commits
 
 #### Docker
 
