@@ -39,6 +39,7 @@ With that being said, here is the list :)
 - [commitizen](https://github.com/commitizen-tools/commitizen): Conventional commits interactive helper
 - [cocogitto](https://github.com/cocogitto/cocogitto): Conventional commits powered release and changelog tool
 - [git-cliff](https://github.com/orhun/git-cliff): Changelog generator using Conventional Commits
+- [dummyhttp](https://github.com/svenstaro/dummyhttp): HTTP server to debug incoming requests
 
 #### Docker
 
