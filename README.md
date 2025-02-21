@@ -16,6 +16,7 @@ With that being said, here is the list :)
 - [zoxide](https://github.com/ajeetdsouza/zoxide): A smarter `cd`, similar to `autojump`
 - [miniserve](https://github.com/svenstaro/miniserve): Local file sharing server
 - [mise](https://github.com/jdx/mise): Development environment management tool
+- [duckdb](https://github.com/duckdb/duckdb): Local database (similar to SQLite) able to handle many different data formats (e.g. csv)
 
 ### Administration
 
